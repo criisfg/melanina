@@ -1,0 +1,4 @@
+//alert("Olá mundo! <3");
+var nomeDaUsuaria = prompt("Me chamo Cris, qual o seu nome?");
+prompt("Seja bem vinda ao meu primeiro programa " + nomeDaUsuaria );
+ 
